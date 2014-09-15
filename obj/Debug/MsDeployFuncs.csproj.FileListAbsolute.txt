@@ -1,0 +1,5 @@
+E:\Repos\MsDeployFuncs\bin\Debug\MsDeployFuncs.dll
+E:\Repos\MsDeployFuncs\bin\Debug\MsDeployFuncs.pdb
+E:\Repos\MsDeployFuncs\obj\Debug\MsDeployFuncs.csprojResolveAssemblyReference.cache
+E:\Repos\MsDeployFuncs\obj\Debug\MsDeployFuncs.dll
+E:\Repos\MsDeployFuncs\obj\Debug\MsDeployFuncs.pdb

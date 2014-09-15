@@ -5,7 +5,7 @@ Ms Deploy and some remote IIS Utilities for FAKE F# build dsl
 
 Example
 
-```
+```fs
 #r "MsDeployFuncs.dll"
 
 open MsDeployFuncs
@@ -29,7 +29,8 @@ Task "Deploy" (fun _ ->
 
 Check source for other functions
 
+```
 MsDeploy.SyncFile
 MsDeploy.RunRemoteCommand
-
+```
 

@@ -1,0 +1,6 @@
+C:\Dev\github.com\KyleGobel\bin\MsDeployFuncs.dll
+C:\Dev\github.com\KyleGobel\bin\MsDeployFuncs.pdb
+C:\Dev\github.com\KyleGobel\FAKE.MsDeployFuncs\src\obj\Debug\MsDeployFuncs.dll
+C:\Dev\github.com\KyleGobel\FAKE.MsDeployFuncs\src\obj\Debug\MsDeployFuncs.pdb
+C:\Dev\github.com\KyleGobel\FAKE.MsDeployFuncs\bin\MsDeployFuncs.dll
+C:\Dev\github.com\KyleGobel\FAKE.MsDeployFuncs\bin\MsDeployFuncs.pdb

@@ -1,5 +1,0 @@
-E:\Repos\MsDeployFuncs\bin\Release\MsDeployFuncs.dll
-E:\Repos\MsDeployFuncs\bin\Release\MsDeployFuncs.pdb
-E:\Repos\MsDeployFuncs\obj\Release\MsDeployFuncs.dll
-E:\Repos\MsDeployFuncs\obj\Release\MsDeployFuncs.pdb
-E:\Repos\MsDeployFuncs\obj\Release\MsDeployFuncs.csprojResolveAssemblyReference.cache

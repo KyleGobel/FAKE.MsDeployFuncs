@@ -30,7 +30,7 @@ Task "Deploy" (fun _ ->
 Check source for other functions
 
 ```
-MsDeploy.SyncFile
-MsDeploy.RunRemoteCommand
+MsDeploy.SyncFile //syncs a file from one computer to another
+MsDeploy.RunRemoteCommand //runs a remote command on the server (start a service, stop a websites, ect)
 ```
 

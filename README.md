@@ -10,7 +10,7 @@ Example
 
 open MsDeployFuncs
 
-let msDeployLocation = "C:\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe"
+let msDeployLocation = @"C:\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe"
 Task "Deploy" (fun _ -> 
     let username = "tom"
     let password = "jones"

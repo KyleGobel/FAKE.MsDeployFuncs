@@ -1,0 +1,5 @@
+C:\Dev\github.com\KyleGobel\FAKE.MsDeployFuncs\bin\MsDeployFuncs.dll
+C:\Dev\github.com\KyleGobel\FAKE.MsDeployFuncs\bin\MsDeployFuncs.pdb
+C:\Dev\github.com\KyleGobel\FAKE.MsDeployFuncs\src\obj\Debug\MsDeployFuncs.csprojResolveAssemblyReference.cache
+C:\Dev\github.com\KyleGobel\FAKE.MsDeployFuncs\src\obj\Debug\MsDeployFuncs.dll
+C:\Dev\github.com\KyleGobel\FAKE.MsDeployFuncs\src\obj\Debug\MsDeployFuncs.pdb
